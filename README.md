@@ -1,2 +1,2 @@
 # my-blog
-My Blog
+My Mini Blog using MERN Stack Development
