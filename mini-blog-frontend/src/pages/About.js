@@ -51,15 +51,15 @@ const About = () => {
         colors remain the same, the order varies depending on the day Navratri
         falls. Here is a list of the Navratri colors 2022:
     
-          <li className="text-gray-900">First Day (26th September) - Pratipada - White</li>
-          <li className="text-gray-900">Second Day (27th September) - Dwitiya - Red</li>
-          <li className="text-gray-900">Third-Day (28th September) - Tritiya - Royal Blue</li>
-          <li className="text-gray-900">Fourth Day (29th September) - Chaturthi - Yellow</li>
-          <li className="text-gray-900">Fifth Day (30th September) - Panchami - Green</li>
-          <li className="text-gray-900">Sixth Day (1st October) - Shashti - Grey</li>
-          <li className="text-gray-900">Seventh Day (2nd October) - Saptami - Orange</li>
-          <li className="text-gray-900">Eighth Day (3rd October) - Ashtami - Peacock Green</li>
-          <li className="text-gray-900">Ninth Day (4th October) - Navami - Pink</li>
+          <li className="text-gray-900">First Day (26th September) - Pratipada - <b>White</b></li>
+          <li className="text-gray-900">Second Day (27th September) - Dwitiya - <b className="text-red-600">Red</b></li>
+          <li className="text-gray-900">Third-Day (28th September) - Tritiya - <b className="text-blue-400">Royal Blue</b></li>
+          <li className="text-gray-900">Fourth Day (29th September) - Chaturthi - <b className="text-yellow-400">Yellow</b></li>
+          <li className="text-gray-900">Fifth Day (30th September) - Panchami - <b className="text-green-500">Green</b></li>
+          <li className="text-gray-900">Sixth Day (1st October) - Shashti - <b className="text-gray-500">Grey</b></li>
+          <li className="text-gray-900">Seventh Day (2nd October) - Saptami - <b className="text-orange-500">Orange</b></li>
+          <li className="text-gray-900">Eighth Day (3rd October) - Ashtami - <b className="text-green-800">Peacock Green</b></li>
+          <li className="text-gray-900">Ninth Day (4th October) - Navami - <b className="text-pink-500">Pink</b></li>
      
       </p>
     </div>
